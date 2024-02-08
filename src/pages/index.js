@@ -19,7 +19,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://salik.live">
+            to="https://gdsc.community.dev/events/details/developer-student-clubs-bennett-university-greater-noida-presents-build-it-yourself/">
             Register Here!
           </Link>
         </div>
