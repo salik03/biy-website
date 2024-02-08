@@ -1,0 +1,452 @@
+[
+    {
+        "productID": 1,
+        "productName": "Laptop",
+        "productBrand": "Dell",
+        "Category": "Electronics",
+        "Price (INR)": 56000,
+        "Product Description": "Powerful laptop with Intel Core i5 processor, 8GB RAM, and 512GB SSD. Perfect for work and entertainment.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 2,
+        "productName": "Smartphone",
+        "productBrand": "Samsung",
+        "Category": "Electronics",
+        "Price (INR)": 70000,
+        "Product Description": "Latest smartphone with high-resolution display, powerful camera, and long-lasting battery life.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 3,
+        "productName": "Headphones",
+        "productBrand": "Sony",
+        "Category": "Electronics",
+        "Price (INR)": 10500,
+        "Product Description": "Premium headphones with noise-canceling technology, delivering immersive audio experience.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 4,
+        "productName": "T-shirt",
+        "productBrand": "Nike",
+        "Category": "Electronics",
+        "Price (INR)": 1750,
+        "Product Description": "Comfortable cotton t-shirt with iconic Nike logo.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 5,
+        "productName": "Jeans",
+        "productBrand": "Levi's",
+        "Category": "Electronics",
+        "Price (INR)": 3500,
+        "Product Description": "Classic denim jeans from Levi's, offering style and durability.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 6,
+        "productName": "Sneakers",
+        "productBrand": "Adidas",
+        "Category": "Electronics",
+        "Price (INR)": 5600,
+        "Product Description": "Stylish sneakers with Adidas' signature design and comfortable cushioning.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 7,
+        "productName": "Watch",
+        "productBrand": "Rolex",
+        "Category": "Electronics",
+        "Price (INR)": 350000,
+        "Product Description": "Luxury timepiece crafted with precision, elegance, and durability.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 8,
+        "productName": "Backpack",
+        "productBrand": "North Face",
+        "Category": "Electronics",
+        "Price (INR)": 7000,
+        "Product Description": "Durable backpack with ample storage space and comfortable shoulder straps.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 9,
+        "productName": "Sunglasses",
+        "productBrand": "Ray-Ban",
+        "Category": "Electronics",
+        "Price (INR)": 10500,
+        "Product Description": "Classic aviator sunglasses with polarized lenses for superior sun protection.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 10,
+        "productName": "Tablet",
+        "productBrand": "Apple",
+        "Category": "Electronics",
+        "Price (INR)": 42000,
+        "Product Description": "iPad with stunning retina display, powerful A12 Bionic chip, and all-day battery life.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 11,
+        "productName": "TV",
+        "productBrand": "LG",
+        "Category": "Electronics",
+        "Price (INR)": 84000,
+        "Product Description": "Smart TV with immersive picture quality, built-in AI, and webOS for seamless streaming.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 12,
+        "productName": "Dress",
+        "productBrand": "H&M",
+        "Category": "Electronics",
+        "Price (INR)": 2100,
+        "Product Description": "Fashionable dress from H&M's latest collection, perfect for any occasion.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 13,
+        "productName": "Shorts",
+        "productBrand": "Under Armour",
+        "Category": "Electronics",
+        "Price (INR)": 2800,
+        "Product Description": "Athletic shorts with moisture-wicking technology, ensuring comfort during workouts.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 14,
+        "productName": "Boots",
+        "productBrand": "Timberland",
+        "Category": "Electronics",
+        "Price (INR)": 8400,
+        "Product Description": "Premium leather boots with rugged durability and all-day comfort.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 15,
+        "productName": "Bracelet",
+        "productBrand": "Pandora",
+        "Category": "Electronics",
+        "Price (INR)": 5600,
+        "Product Description": "Elegant bracelet adorned with sparkling charms, ideal for adding a touch of glamour to any outfit.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 16,
+        "productName": "Wallet",
+        "productBrand": "Gucci",
+        "Category": "Electronics",
+        "Price (INR)": 21000,
+        "Product Description": "Luxury wallet crafted from fine leather, featuring iconic Gucci logo detail.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 17,
+        "productName": "Keyboard",
+        "productBrand": "Logitech",
+        "Category": "Electronics",
+        "Price (INR)": 3500,
+        "Product Description": "High-performance keyboard with customizable RGB lighting and mechanical switches.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 18,
+        "productName": "Mouse",
+        "productBrand": "Razer",
+        "Category": "Electronics",
+        "Price (INR)": 4900,
+        "Product Description": "Gaming mouse with advanced optical sensor and ergonomic design for precision and comfort.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 19,
+        "productName": "Jacket",
+        "productBrand": "Columbia",
+        "Category": "Electronics",
+        "Price (INR)": 7000,
+        "Product Description": "Waterproof jacket with thermal reflective lining, perfect for outdoor adventures.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 20,
+        "productName": "Scarf",
+        "productBrand": "Burberry",
+        "Category": "Electronics",
+        "Price (INR)": 10500,
+        "Product Description": "Luxurious cashmere scarf featuring Burberry's iconic check pattern.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 21,
+        "productName": "Sandals",
+        "productBrand": "Birkenstock",
+        "Category": "Clothing",
+        "Price (INR)": 4200,
+        "Product Description": "Comfortable sandals with contoured footbed and adjustable straps for a customized fit.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 22,
+        "productName": "Ring",
+        "productBrand": "Tiffany & Co.",
+        "Category": "Clothing",
+        "Price (INR)": 35000,
+        "Product Description": "Exquisite ring crafted from sterling silver, adorned with Tiffany's signature elegance.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 23,
+        "productName": "External Hard Drive",
+        "productBrand": "Western Digital",
+        "Category": "Clothing",
+        "Price (INR)": 5600,
+        "Product Description": "High-capacity external hard drive for storing and backing up data with fast transfer speeds.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 24,
+        "productName": "Printer",
+        "productBrand": "HP",
+        "Category": "Clothing",
+        "Price (INR)": 5600,
+        "Product Description": "All-in-one printer with wireless connectivity and high-quality printing capabilities.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 25,
+        "productName": "Hoodie",
+        "productBrand": "Champion",
+        "Category": "Clothing",
+        "Price (INR)": 10500,
+        "Product Description": "Cozy hoodie with Champion's iconic logo, perfect for casual wear.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 26,
+        "productName": "Leggings",
+        "productBrand": "Lululemon",
+        "Category": "Clothing",
+        "Price (INR)": 3150,
+        "Product Description": "High-quality leggings designed for comfort and performance during workouts or everyday wear.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 27,
+        "productName": "Heels",
+        "productBrand": "Steve Madden",
+        "Category": "Clothing",
+        "Price (INR)": 5400,
+        "Product Description": "Stylish heels with a modern design and cushioned insole for all-day comfort.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 28,
+        "productName": "Necklace",
+        "productBrand": "Swarovski",
+        "Category": "Clothing",
+        "Price (INR)": 4900,
+        "Product Description": "Sparkling necklace adorned with Swarovski crystals, adding a touch of elegance to any ensemble.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 29,
+        "productName": "Laptop Sleeve",
+        "productBrand": "Case Logic",
+        "Category": "Clothing",
+        "Price (INR)": 14000,
+        "Product Description": "Protective laptop sleeve with padded interior and slim design for easy portability.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 30,
+        "productName": "Smart Speaker",
+        "productBrand": "Amazon",
+        "Category": "Clothing",
+        "Price (INR)": 1400,
+        "Product Description": "Voice-controlled smart speaker with Alexa, delivering immersive sound and smart home capabilities.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 31,
+        "productName": "Smartwatch",
+        "productBrand": "Fitbit",
+        "Category": "Clothing",
+        "Price (INR)": 5600,
+        "Product Description": "Fitness-oriented smartwatch with heart rate monitoring, activity tracking, and built-in GPS.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 32,
+        "productName": "Polo Shirt",
+        "productBrand": "Ralph Lauren",
+        "Category": "Clothing",
+        "Price (INR)": 10500,
+        "Product Description": "Classic polo shirt crafted from soft cotton, featuring Ralph Lauren's signature pony logo.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 33,
+        "productName": "Skirt",
+        "productBrand": "Zara",
+        "Category": "Clothing",
+        "Price (INR)": 3600,
+        "Product Description": "Trendy skirt with a flattering silhouette, perfect for both casual and dressy occasions.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 34,
+        "productName": "Loafers",
+        "productBrand": "Clarks",
+        "Category": "Clothing",
+        "Price (INR)": 2450,
+        "Product Description": "Stylish loafers crafted from premium leather, offering timeless style and all-day comfort.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 35,
+        "productName": "Belt",
+        "productBrand": "Hermes",
+        "Category": "Clothing",
+        "Price (INR)": 7000,
+        "Product Description": "Luxury leather belt with iconic Hermes buckle, adding sophistication to any outfit.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 36,
+        "productName": "Monitor",
+        "productBrand": "Dell",
+        "Category": "Shoes",
+        "Price (INR)": 28000,
+        "Product Description": "High-resolution monitor with vibrant colors and slim bezels, perfect for work or entertainment.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 37,
+        "productName": "Camera",
+        "productBrand": "Canon",
+        "Category": "Shoes",
+        "Price (INR)": 21000,
+        "Product Description": "DSLR camera with advanced autofocus system and high-quality image sensor for stunning photography.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 38,
+        "productName": "Sweater",
+        "productBrand": "Gap",
+        "Category": "Shoes",
+        "Price (INR)": 35000,
+        "Product Description": "Cozy sweater knitted from soft yarn, ideal for layering during colder weather.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 39,
+        "productName": "Leg Warmers",
+        "productBrand": "American Apparel",
+        "Category": "Shoes",
+        "Price (INR)": 10500,
+        "Product Description": "Stylish leg warmers made from stretchy fabric, adding a trendy touch to any outfit.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 40,
+        "productName": "Flip Flops",
+        "productBrand": "Havaianas",
+        "Category": "Shoes",
+        "Price (INR)": 1050,
+        "Product Description": "Comfortable flip flops with durable rubber sole, perfect for beach days or casual outings.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 41,
+        "productName": "Earrings",
+        "productBrand": "Pandora",
+        "Category": "Shoes",
+        "Price (INR)": 1400,
+        "Product Description": "Elegant earrings crafted from sterling silver, adorned with sparkling cubic zirconia stones.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 42,
+        "productName": "Laptop Stand",
+        "productBrand": "Rain Design",
+        "Category": "Shoes",
+        "Price (INR)": 4200,
+        "Product Description": "Ergonomic laptop stand with adjustable height and tilt, promoting better posture during use.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 43,
+        "productName": "Router",
+        "productBrand": "TP-Link",
+        "Category": "Accessories",
+        "Price (INR)": 2800,
+        "Product Description": "High-speed wireless router with reliable connectivity and advanced security features.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 44,
+        "productName": "Action Camera",
+        "productBrand": "GoPro",
+        "Category": "Accessories",
+        "Price (INR)": 3500,
+        "Product Description": "Compact action camera with 4K video recording and rugged waterproof design, perfect for adventure seekers.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 45,
+        "productName": "Sweater Dress",
+        "productBrand": "Free People",
+        "Category": "Accessories",
+        "Price (INR)": 21000,
+        "Product Description": "Cozy sweater dress with stylish details, perfect for layering during colder seasons.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 46,
+        "productName": "Jumpsuit",
+        "productBrand": "Urban Outfitters",
+        "Category": "Accessories",
+        "Price (INR)": 21000,
+        "Product Description": "Fashion-forward jumpsuit with a flattering fit, ideal for making a statement.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 47,
+        "productName": "Oxfords",
+        "productBrand": "Cole Haan",
+        "Category": "Accessories",
+        "Price (INR)": 4900,
+        "Product Description": "Classic Oxford shoes crafted from premium leather, offering timeless style and sophistication.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 48,
+        "productName": "Cufflinks",
+        "productBrand": "Montblanc",
+        "Category": "Accessories",
+        "Price (INR)": 5600,
+        "Product Description": "Luxury cufflinks crafted from stainless steel, featuring Montblanc's iconic emblem.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 49,
+        "productName": "Microphone",
+        "productBrand": "Blue Yeti",
+        "Category": "Accessories",
+        "Price (INR)": 10500,
+        "Product Description": "Professional-grade USB microphone with studio-quality recording capabilities.",
+        "Product Image": "No Image Found"
+    },
+    {
+        "productID": 50,
+        "productName": "Game Console",
+        "productBrand": "Sony",
+        "Category": "Accessories",
+        "Price (INR)": 28000,
+        "Product Description": "Next-gen gaming console with 4K resolution support and a vast library of games.",
+        "Product Image": "No Image Found"
+    }
+]
