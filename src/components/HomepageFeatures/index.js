@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Gain In-depth AI Chatbot knowledge in this immersive workshop. Learn Technologies like Tensorflow and KerasNLP
+        Delve into creating an AI chatbot using KerasNLP and TensorFlow, exploring natural language processing and deep learning. 
       </>
     ),
   },
@@ -17,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        FastAPI is a high-performance web framework for building APIs with Python 3.8+. Learn how to create robust APIs quickly using Python type hints and automatic interactive documentation.
       </>
     ),
   },
@@ -26,9 +25,7 @@ const FeatureList = [
     title: 'Flutter',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+      <>Flutter will enable you to create native mobile apps for both iOS and Android using a single codebase. When combined with Firebase, it provides a powerful backend-as-a-service platform.
       </>
     ),
   },
