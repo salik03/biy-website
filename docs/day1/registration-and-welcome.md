@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# **Registration and Welcome**
+# Registration and Welcome
 
-6:30 pm - 6:45 pm
+**6:30 pm - 6:45 pm**
 
 - Participants gather for registration.
 - Welcome address by workshop organizers.

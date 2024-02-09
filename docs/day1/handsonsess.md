@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
 ---
-
-# **Building a Simple FastAPI Application**
+# Building a Simple FastAPI Application
 
 8:00 pm - 9:30 pm
 

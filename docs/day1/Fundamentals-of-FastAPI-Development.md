@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# **Fundamentals of FastAPI Development**
+# Fundamentals of FastAPI Development
 
 6:45 pm - 7:45 pm
 
