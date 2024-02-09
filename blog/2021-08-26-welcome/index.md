@@ -1,24 +1,80 @@
 ---
-slug: welcome
-title: Welcome
+title: Downloads
 authors: [slorber, yangshun]
 tags: [facebook, hello, docusaurus]
 ---
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+# Workshop Software and Resources
 
-Simply add Markdown files (or folders) to the `blog` directory.
+## Software Downloads:
 
-Regular blog authors can be added to `authors.yml`.
+1. **Flutter SDK:**
 
-The blog post date can be extracted from filenames, such as:
+   - Download: [Flutter SDK](https://flutter.dev/docs/get-started/install)
+2. **Android Studio:**
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+   - Download: [Android Studio](https://developer.android.com/studio)
+   - USB Debugging Setup: [USB Debugging](https://developer.android.com/studio/debug/dev-options)
+3. **Firebase CLI (Command Line Interface):**
 
-A blog post folder can be convenient to co-locate blog post images:
+   - Installation Guide: [Firebase CLI](https://firebase.google.com/docs/cli#install-cli-mac-linux)
+4. **Docker Desktop:**
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+   - Download: [Docker Desktop](https://www.docker.com/products/docker-desktop)
+5. **Node.js and npm:**
 
-The blog supports tags as well!
+   - Download: [Node.js](https://nodejs.org/en/download/)
+   - npm Documentation: [npm](https://docs.npmjs.com/cli/v7/commands/npm)
+6. **Visual Studio Code (VS Code):**
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+   - Download: [VS Code](https://code.visualstudio.com/Download)
+7. **Git:**
+
+   - Download: [Git](https://git-scm.com/downloads)
+
+## Firebase and Flutter Resources:
+
+1. **Firebase Documentation:**
+
+   - Official Documentation: [Firebase Documentation](https://firebase.google.com/docs)
+2. **Flutter Documentation:**
+
+   - Official Documentation: [Flutter Documentation](https://flutter.dev/docs)
+3. **YouTube Tutorials:**
+
+   - Firebase YouTube Channel: [Firebase YouTube](https://www.youtube.com/user/Firebase)
+   - Flutter YouTube Channel: [Flutter YouTube](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+4. **Blogs and Articles:**
+
+   - Medium: [Flutter Community on Medium](https://medium.com/flutter)
+   - Firebase Blog: [Firebase Blog](https://firebase.googleblog.com/)
+
+## Additional Resources:
+
+1. **Flutter GitHub Repository:**
+
+   - Source Code: [Flutter GitHub](https://github.com/flutter/flutter)
+2. **Docker Documentation:**
+
+   - Official Documentation: [Docker Documentation](https://docs.docker.com)
+3. **Android Developer Documentation:**
+
+   - Official Documentation: [Android Developer](https://developer.android.com/docs)
+4. **GitHub Repository for Sample Projects:**
+
+   - Sample Projects: [GitHub Samples](https://github.com/flutter/samples)
+
+## Video Tutorials:
+
+1. **Flutter Tutorial for Beginners by The Net Ninja:**
+
+   - [Flutter Tutorial](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+2. **Firebase for Flutter by Fireship:**
+
+   - [Firebase for Flutter](https://www.youtube.com/watch?v=O17OWyx08Cg&list=PL0b6OzIxLPb6jrq45W0ZVbX9iUaVpP4bF)
+3. **Docker for Beginners by Tech With Tim:**
+
+   - [Docker for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
+
+## Disclaimer:
+
+The provided links are for reference purposes. It's recommended to always verify and download software from official sources to ensure safety and compatibility.
