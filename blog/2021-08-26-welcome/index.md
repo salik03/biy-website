@@ -74,6 +74,11 @@ tags: [facebook, hello, docusaurus]
 3. **Docker for Beginners by Tech With Tim:**
 
    - [Docker for Beginners](https://www.youtube.com/watch?v=3c-iBn73dDE)
+4. Android Studio Setup
+
+   For Wndows, [Android Studio Setup](https://youtu.be/fxSKQPG37IA?si=vIUcPXAyzrlupa4A)
+
+   For Mac, [Android Studio Setup](https://youtu.be/f09c-nw15K8?si=CchwfxHBtTfkbmzc)
 
 ## Disclaimer:
 
