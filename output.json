@@ -1,6 +1,6 @@
-[
-    {
-        "productID": 1,
+{
+    "1": {
+        "productID": "1",
         "productName": "Laptop",
         "productBrand": "Dell",
         "Category": "Electronics",
@@ -8,8 +8,8 @@
         "Product Description": "Powerful laptop with Intel Core i5 processor, 8GB RAM, and 512GB SSD. Perfect for work and entertainment.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 2,
+    "2": {
+        "productID": "2",
         "productName": "Smartphone",
         "productBrand": "Samsung",
         "Category": "Electronics",
@@ -17,8 +17,8 @@
         "Product Description": "Latest smartphone with high-resolution display, powerful camera, and long-lasting battery life.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 3,
+    "3": {
+        "productID": "3",
         "productName": "Headphones",
         "productBrand": "Sony",
         "Category": "Electronics",
@@ -26,8 +26,8 @@
         "Product Description": "Premium headphones with noise-canceling technology, delivering immersive audio experience.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 4,
+    "4": {
+        "productID": "4",
         "productName": "T-shirt",
         "productBrand": "Nike",
         "Category": "Clothing",
@@ -35,8 +35,8 @@
         "Product Description": "Comfortable cotton t-shirt with iconic Nike logo.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 5,
+    "5": {
+        "productID": "5",
         "productName": "Jeans",
         "productBrand": "Levi's",
         "Category": "Clothing",
@@ -44,8 +44,8 @@
         "Product Description": "Classic denim jeans from Levi's, offering style and durability.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 6,
+    "6": {
+        "productID": "6",
         "productName": "Sneakers",
         "productBrand": "Adidas",
         "Category": "Clothing",
@@ -53,8 +53,8 @@
         "Product Description": "Stylish sneakers with Adidas' signature design and comfortable cushioning.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 7,
+    "7": {
+        "productID": "7",
         "productName": "Watch",
         "productBrand": "Rolex",
         "Category": "Accessories",
@@ -62,8 +62,8 @@
         "Product Description": "Luxury timepiece crafted with precision, elegance, and durability.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 8,
+    "8": {
+        "productID": "8",
         "productName": "Backpack",
         "productBrand": "North Face",
         "Category": "Accessories",
@@ -71,8 +71,8 @@
         "Product Description": "Durable backpack with ample storage space and comfortable shoulder straps.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 9,
+    "9": {
+        "productID": "9",
         "productName": "Sunglasses",
         "productBrand": "Ray-Ban",
         "Category": "Accessories",
@@ -80,8 +80,8 @@
         "Product Description": "Classic aviator sunglasses with polarized lenses for superior sun protection.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 10,
+    "10": {
+        "productID": "10",
         "productName": "Tablet",
         "productBrand": "Apple",
         "Category": "Electronics",
@@ -89,8 +89,8 @@
         "Product Description": "iPad with stunning retina display, powerful A12 Bionic chip, and all-day battery life.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 11,
+    "11": {
+        "productID": "11",
         "productName": "TV",
         "productBrand": "LG",
         "Category": "Electronics",
@@ -98,8 +98,8 @@
         "Product Description": "Smart TV with immersive picture quality, built-in AI, and webOS for seamless streaming.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 12,
+    "12": {
+        "productID": "12",
         "productName": "Dress",
         "productBrand": "H&M",
         "Category": "Clothing",
@@ -107,8 +107,8 @@
         "Product Description": "Fashionable dress from H&M's latest collection, perfect for any occasion.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 13,
+    "13": {
+        "productID": "13",
         "productName": "Shorts",
         "productBrand": "Under Armour",
         "Category": "Clothing",
@@ -116,8 +116,8 @@
         "Product Description": "Athletic shorts with moisture-wicking technology, ensuring comfort during workouts.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 14,
+    "14": {
+        "productID": "14",
         "productName": "Boots",
         "productBrand": "Timberland",
         "Category": "Clothing",
@@ -125,8 +125,8 @@
         "Product Description": "Premium leather boots with rugged durability and all-day comfort.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 15,
+    "15": {
+        "productID": "15",
         "productName": "Bracelet",
         "productBrand": "Pandora",
         "Category": "Accessories",
@@ -134,8 +134,8 @@
         "Product Description": "Elegant bracelet adorned with sparkling charms, ideal for adding a touch of glamour to any outfit.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 16,
+    "16": {
+        "productID": "16",
         "productName": "Wallet",
         "productBrand": "Gucci",
         "Category": "Accessories",
@@ -143,8 +143,8 @@
         "Product Description": "Luxury wallet crafted from fine leather, featuring iconic Gucci logo detail.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 17,
+    "17": {
+        "productID": "17",
         "productName": "Keyboard",
         "productBrand": "Logitech",
         "Category": "Electronics",
@@ -152,8 +152,8 @@
         "Product Description": "High-performance keyboard with customizable RGB lighting and mechanical switches.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 18,
+    "18": {
+        "productID": "18",
         "productName": "Mouse",
         "productBrand": "Razer",
         "Category": "Electronics",
@@ -161,8 +161,8 @@
         "Product Description": "Gaming mouse with advanced optical sensor and ergonomic design for precision and comfort.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 19,
+    "19": {
+        "productID": "19",
         "productName": "Jacket",
         "productBrand": "Columbia",
         "Category": "Clothing",
@@ -170,8 +170,8 @@
         "Product Description": "Waterproof jacket with thermal reflective lining, perfect for outdoor adventures.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 20,
+    "20": {
+        "productID": "20",
         "productName": "Scarf",
         "productBrand": "Burberry",
         "Category": "Clothing",
@@ -179,8 +179,8 @@
         "Product Description": "Luxurious cashmere scarf featuring Burberry's iconic check pattern.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 21,
+    "21": {
+        "productID": "21",
         "productName": "Sandals",
         "productBrand": "Birkenstock",
         "Category": "Clothing",
@@ -188,8 +188,8 @@
         "Product Description": "Comfortable sandals with contoured footbed and adjustable straps for a customized fit.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 22,
+    "22": {
+        "productID": "22",
         "productName": "Ring",
         "productBrand": "Tiffany & Co.",
         "Category": "Accessories",
@@ -197,8 +197,8 @@
         "Product Description": "Exquisite ring crafted from sterling silver, adorned with Tiffany's signature elegance.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 23,
+    "23": {
+        "productID": "23",
         "productName": "External Hard Drive",
         "productBrand": "Western Digital",
         "Category": "Electronics",
@@ -206,8 +206,8 @@
         "Product Description": "High-capacity external hard drive for storing and backing up data with fast transfer speeds.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 24,
+    "24": {
+        "productID": "24",
         "productName": "Printer",
         "productBrand": "HP",
         "Category": "Electronics",
@@ -215,8 +215,8 @@
         "Product Description": "All-in-one printer with wireless connectivity and high-quality printing capabilities.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 25,
+    "25": {
+        "productID": "25",
         "productName": "Hoodie",
         "productBrand": "Champion",
         "Category": "Clothing",
@@ -224,8 +224,8 @@
         "Product Description": "Cozy hoodie with Champion's iconic logo, perfect for casual wear.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 26,
+    "26": {
+        "productID": "26",
         "productName": "Leggings",
         "productBrand": "Lululemon",
         "Category": "Clothing",
@@ -233,8 +233,8 @@
         "Product Description": "High-quality leggings designed for comfort and performance during workouts or everyday wear.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 27,
+    "27": {
+        "productID": "27",
         "productName": "Heels",
         "productBrand": "Steve Madden",
         "Category": "Clothing",
@@ -242,8 +242,8 @@
         "Product Description": "Stylish heels with a modern design and cushioned insole for all-day comfort.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 28,
+    "28": {
+        "productID": "28",
         "productName": "Necklace",
         "productBrand": "Swarovski",
         "Category": "Accessories",
@@ -251,8 +251,8 @@
         "Product Description": "Sparkling necklace adorned with Swarovski crystals, adding a touch of elegance to any ensemble.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 29,
+    "29": {
+        "productID": "29",
         "productName": "Laptop Sleeve",
         "productBrand": "Case Logic",
         "Category": "Accessories",
@@ -260,8 +260,8 @@
         "Product Description": "Protective laptop sleeve with padded interior and slim design for easy portability.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 30,
+    "30": {
+        "productID": "30",
         "productName": "Smart Speaker",
         "productBrand": "Amazon",
         "Category": "Electronics",
@@ -269,8 +269,8 @@
         "Product Description": "Voice-controlled smart speaker with Alexa, delivering immersive sound and smart home capabilities.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 31,
+    "31": {
+        "productID": "31",
         "productName": "Smartwatch",
         "productBrand": "Fitbit",
         "Category": "Electronics",
@@ -278,8 +278,8 @@
         "Product Description": "Fitness-oriented smartwatch with heart rate monitoring, activity tracking, and built-in GPS.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 32,
+    "32": {
+        "productID": "32",
         "productName": "Polo Shirt",
         "productBrand": "Ralph Lauren",
         "Category": "Clothing",
@@ -287,8 +287,8 @@
         "Product Description": "Classic polo shirt crafted from soft cotton, featuring Ralph Lauren's signature pony logo.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 33,
+    "33": {
+        "productID": "33",
         "productName": "Skirt",
         "productBrand": "Zara",
         "Category": "Clothing",
@@ -296,8 +296,8 @@
         "Product Description": "Trendy skirt with a flattering silhouette, perfect for both casual and dressy occasions.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 34,
+    "34": {
+        "productID": "34",
         "productName": "Loafers",
         "productBrand": "Clarks",
         "Category": "Clothing",
@@ -305,8 +305,8 @@
         "Product Description": "Stylish loafers crafted from premium leather, offering timeless style and all-day comfort.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 35,
+    "35": {
+        "productID": "35",
         "productName": "Belt",
         "productBrand": "Hermes",
         "Category": "Accessories",
@@ -314,8 +314,8 @@
         "Product Description": "Luxury leather belt with iconic Hermes buckle, adding sophistication to any outfit.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 36,
+    "36": {
+        "productID": "36",
         "productName": "Monitor",
         "productBrand": "Dell",
         "Category": "Electronics",
@@ -323,8 +323,8 @@
         "Product Description": "High-resolution monitor with vibrant colors and slim bezels, perfect for work or entertainment.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 37,
+    "37": {
+        "productID": "37",
         "productName": "Camera",
         "productBrand": "Canon",
         "Category": "Electronics",
@@ -332,8 +332,8 @@
         "Product Description": "DSLR camera with advanced autofocus system and high-quality image sensor for stunning photography.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 38,
+    "38": {
+        "productID": "38",
         "productName": "Sweater",
         "productBrand": "Gap",
         "Category": "Clothing",
@@ -341,8 +341,8 @@
         "Product Description": "Cozy sweater knitted from soft yarn, ideal for layering during colder weather.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 39,
+    "39": {
+        "productID": "39",
         "productName": "Leg Warmers",
         "productBrand": "American Apparel",
         "Category": "Clothing",
@@ -350,8 +350,8 @@
         "Product Description": "Stylish leg warmers made from stretchy fabric, adding a trendy touch to any outfit.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 40,
+    "40": {
+        "productID": "40",
         "productName": "Flip Flops",
         "productBrand": "Havaianas",
         "Category": "Clothing",
@@ -359,94 +359,49 @@
         "Product Description": "Comfortable flip flops with durable rubber sole, perfect for beach days or casual outings.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 41,
+    "41": {
+        "productID": "41",
         "productName": "Earrings",
         "productBrand": "Pandora",
         "Category": "Accessories",
         "Price (INR)": 1400,
-        "Product Description": "Elegant earrings crafted from sterling silver, adorned with sparkling cubic zirconia stones.",
+        "Product Description": "Elegant earrings adorned with sparkling stones, adding a touch of glamour to any look.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 42,
-        "productName": "Laptop Stand",
-        "productBrand": "Rain Design",
-        "Category": "Accessories",
-        "Price (INR)": 4200,
-        "Product Description": "Ergonomic laptop stand with adjustable height and tilt, promoting better posture during use.",
-        "Product Image": "No Image Found"
-    },
-    {
-        "productID": 43,
-        "productName": "Router",
-        "productBrand": "TP-Link",
+    "42": {
+        "productID": "42",
+        "productName": "Desk Lamp",
+        "productBrand": "Ikea",
         "Category": "Electronics",
         "Price (INR)": 2800,
-        "Product Description": "High-speed wireless router with reliable connectivity and advanced security features.",
+        "Product Description": "Modern desk lamp with adjustable brightness levels, perfect for work or study.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 44,
-        "productName": "Action Camera",
-        "productBrand": "GoPro",
-        "Category": "Electronics",
-        "Price (INR)": 3500,
-        "Product Description": "Compact action camera with 4K video recording and rugged waterproof design, perfect for adventure seekers.",
-        "Product Image": "No Image Found"
-    },
-    {
-        "productID": 45,
-        "productName": "Sweater Dress",
-        "productBrand": "Free People",
-        "Category": "Clothing",
-        "Price (INR)": 21000,
-        "Product Description": "Cozy sweater dress with stylish details, perfect for layering during colder seasons.",
-        "Product Image": "No Image Found"
-    },
-    {
-        "productID": 46,
-        "productName": "Jumpsuit",
-        "productBrand": "Urban Outfitters",
-        "Category": "Clothing",
-        "Price (INR)": 21000,
-        "Product Description": "Fashion-forward jumpsuit with a flattering fit, ideal for making a statement.",
-        "Product Image": "No Image Found"
-    },
-    {
-        "productID": 47,
-        "productName": "Oxfords",
-        "productBrand": "Cole Haan",
-        "Category": "Clothing",
-        "Price (INR)": 4900,
-        "Product Description": "Classic Oxford shoes crafted from premium leather, offering timeless style and sophistication.",
-        "Product Image": "No Image Found"
-    },
-    {
-        "productID": 48,
-        "productName": "Cufflinks",
-        "productBrand": "Montblanc",
+    "43": {
+        "productID": "43",
+        "productName": "Back Brace",
+        "productBrand": "Mueller",
         "Category": "Accessories",
-        "Price (INR)": 5600,
-        "Product Description": "Luxury cufflinks crafted from stainless steel, featuring Montblanc's iconic emblem.",
+        "Price (INR)": 1400,
+        "Product Description": "Supportive back brace for posture improvement and back pain relief.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 49,
-        "productName": "Microphone",
-        "productBrand": "Blue Yeti",
-        "Category": "Electronics",
-        "Price (INR)": 10500,
-        "Product Description": "Professional-grade USB microphone with studio-quality recording capabilities.",
+    "44": {
+        "productID": "44",
+        "productName": "Sun Hat",
+        "productBrand": "Fila",
+        "Category": "Clothing",
+        "Price (INR)": 1400,
+        "Product Description": "Stylish sun hat with wide brim for sun protection, perfect for outdoor activities.",
         "Product Image": "No Image Found"
     },
-    {
-        "productID": 50,
-        "productName": "Game Console",
-        "productBrand": "Sony",
+    "45": {
+        "productID": "45",
+        "productName": "Power Bank",
+        "productBrand": "Anker",
         "Category": "Electronics",
-        "Price (INR)": 28000,
-        "Product Description": "Next-gen gaming console with 4K resolution support and a vast library of games.",
+        "Price (INR)": 2800,
+        "Product Description": "High-capacity power bank for charging devices on the go, featuring fast charging technology.",
         "Product Image": "No Image Found"
     }
-]
+}
