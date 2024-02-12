@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Build It Yourself',
-  tagline: '[Bootstrap your software development skills]',
+  tagline: 'https://meet.google.com/ybc-duxx-zhz',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
