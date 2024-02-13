@@ -5,6 +5,8 @@ tags: [facebook, hello, docusaurus]
 ---
 # Workshop Software and Resources
 
+Step by Step Flutter and Emulator Setup: [Click Here!](https://docs.google.com/document/d/1max6qPPZz7QoJGEIGKhfpU-AaY8z8dzJAiI5azzYn2k/edit?usp=sharing)
+
 ## Software Downloads:
 
 1. **Flutter SDK:**
