@@ -82,6 +82,11 @@ Step by Step Flutter and Emulator Setup: [Click Here!](https://docs.google.com/d
 
    For Mac, [Android Studio Setup](https://youtu.be/f09c-nw15K8?si=CchwfxHBtTfkbmzc)
 
+5. Doubt Clearance
+
+   For any doubts join our whatsapp community, [Whatsapp Community](https://chat.whatsapp.com/JcF7cYIX8GyAGsz98SYVjF)
+
+
 ## Disclaimer:
 
 The provided links are for reference purposes. It's recommended to always verify and download software from official sources to ensure safety and compatibility.
